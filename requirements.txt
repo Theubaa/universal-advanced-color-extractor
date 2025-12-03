@@ -1,0 +1,10 @@
+Pillow>=11.0.0
+numpy==1.26.4
+beautifulsoup4==4.12.3
+fastapi==0.110.0
+python-multipart==0.0.9
+uvicorn==0.27.1
+cairosvg==2.7.1
+lxml>=5.3.0
+opencv-python==4.9.0.80
+PyMuPDF>=1.25.0
